@@ -35,7 +35,7 @@ http://localhost:8090
 
 项目结构
 -----
-![项目结构](../项目结构.jpg)
+![项目结构](https://github.com/chengxubang/OnlineDisk/blob/main/1.png)
 
 项目截图
 ----
