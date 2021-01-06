@@ -1,10 +1,9 @@
 # OnlineDisk
 毕设java共享网盘
-手把手带你搭建Java共享网盘
-=
+
 
 ``
-如源码，请联系程序帮：QQ1022287044
+如需源码，请联系程序帮：QQ1022287044
 ``
 
 项目介绍
@@ -37,7 +36,7 @@ http://localhost:8090
 
 项目结构
 -----
-![项目结构](项目结构.jpg)
+![项目结构](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159741194.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=AnVddU2P0MLE2RyVssh6jHeloAA%3D)
 
 项目截图
 ----
