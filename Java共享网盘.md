@@ -1,9 +1,10 @@
-手把手带你搭建Java共享网盘
+手把手带你搭建Java共享网盘文件管理系统
 =
 
 ``
 如需源码，联系程序帮：qq1022287044
 ``
+
 
 项目介绍
 ----
@@ -40,21 +41,29 @@ http://localhost:8090
 项目截图
 ----
 
-- 注册
+注册
 
+![注册](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159741582.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=Odl3O2oBzZfvzk7iLD0SuT%2BJKwQ%3D)
 
-- 我的网盘
+我的网盘
 
+![我的网盘](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159741193.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=OjYNExrH9wNLqdSDJU3cFk9B9uc%3D)
 
-- 我的共享
+我的共享
 
-- 回收站
+![我的共享](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159741189.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=6B9lPzKUr1O6Sy6I5RCDazro1%2BI%3D)
 
-- 会员充值
+会员充值
 
-- 管理员-所有文件
+![会员充值](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159740324.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=MSNY3wUci7rXd5MhARynyk6zID0%3D)
 
-- 管理员-共享申请
+管理员-所有文件
+
+![管理员-所有文件](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159740322.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=29O20DcOQlBSpdAporpkrOA1kpw%3D)
+
+管理员-共享文件
+
+![管理员-共享文件](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159740319.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=mU3eovko%2BqgDscmIij%2BLfY6V2Jg%3D)
 
 
 
