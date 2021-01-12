@@ -59,7 +59,7 @@ http://localhost:8090
 
 - 管理员-共享文件
 
-![管理员-共享文件](https://lrpimg.oss-cn-beijing.aliyuncs.com/24/1609159740319.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=mU3eovko%2BqgDscmIij%2BLfY6V2Jg%3D)
+![管理员-共享文件](/管理员-所有共享.png)
 
 
 
