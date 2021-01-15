@@ -1,7 +1,7 @@
 # OnlineDisk
 毕设java共享网盘
 
-程序有问题就找[程序帮](http://ll032.cn/HZ6vHa)：QQ1022287044
+程序有问题就找[程序帮](http://suo.nz/530ijn)：QQ1022287044
 
 项目介绍
 ----
